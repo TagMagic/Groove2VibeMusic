@@ -908,7 +908,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #f68d10 !important;
+  background: #000000 !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -920,7 +920,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #f68d10;
+  background-color: #000000;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -949,8 +949,8 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #f68d10;
-  background: #f68d10 !important;
+  background: #000000;
+  background: #000000 !important;
 }
 .cid-v8MNWjqf5T .nav-item:focus,
 .cid-v8MNWjqf5T .nav-link:focus {
@@ -1112,7 +1112,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-v8MNWjqf5T .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f68d10;
+  background: #000000;
 }
 .cid-v8MNWjqf5T .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1276,10 +1276,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #f68d10;
+    background: #000000;
     opacity: 1;
-    border-color: #f68d10 !important;
-    background: #f68d10 !important;
+    border-color: #000000 !important;
+    background: #000000 !important;
     backdrop-filter: blur(8px);
   }
   .cid-v8MNWjqf5T .navbar-nav .nav-item .nav-link::after {
@@ -1346,7 +1346,7 @@ a {
 .cid-v8UJ9xzxzF {
   padding-top: 12rem;
   padding-bottom: 5rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/darkwoodbg-1219x453.jpg");
 }
 .cid-v8UJ9xzxzF .mbr-fallback-image.disabled {
   display: none;
@@ -1389,120 +1389,28 @@ a {
 .cid-v8UJ9xzxzF .content-head {
   max-width: 800px;
 }
-.cid-v8UMahXkCw {
+.cid-vrS8oeisBr {
   padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/groove2vibe20music20banner-1536x1024.png");
+  padding-bottom: 1rem;
+  background-color: #000000;
 }
-.cid-v8UMahXkCw .mbr-section-title {
-  color: #f7f7f7;
-  text-align: center;
-}
-.cid-v8UMahXkCw .mbr-text,
-.cid-v8UMahXkCw .mbr-section-btn {
-  color: #05386b;
-  text-align: center;
-}
-.cid-v8UMahXkCw .mbr-section-subtitle {
+.cid-vrS8oeisBr .mbr-section-title {
   color: #ffa600;
   text-align: center;
 }
-.cid-v9gsrxDuJ2 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #000000;
-}
-.cid-v9gsrxDuJ2 img,
-.cid-v9gsrxDuJ2 .item-img {
-  width: 100%;
-}
-.cid-v9gsrxDuJ2 .item:focus,
-.cid-v9gsrxDuJ2 span:focus {
-  outline: none;
-}
-.cid-v9gsrxDuJ2 .item {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-v9gsrxDuJ2 .item {
-    margin-bottom: 1rem;
-  }
-}
-.cid-v9gsrxDuJ2 .item-content {
-  margin-top: 2rem;
-  padding: 0 2.25rem 2.25rem;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-v9gsrxDuJ2 .item-content {
-    padding: 2rem 1.5rem;
-    padding-top: 1rem;
-    margin-top: 1rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-v9gsrxDuJ2 .item-content {
-    padding: 2rem 1.5rem;
-    padding-top: 1rem;
-    margin-top: 1rem;
-  }
-}
-.cid-v9gsrxDuJ2 .item-wrapper {
-  position: relative;
-  background: #f68d10;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-.cid-v9gsrxDuJ2 .item-wrapper .item-footer {
-  margin-top: auto;
-}
-.cid-v9gsrxDuJ2 .mbr-section-title {
-  color: #f68d10;
-}
-.cid-v9gsrxDuJ2 .item-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-v9gsrxDuJ2 .item-subtitle {
-  text-align: left;
-}
-.cid-v9gsrxDuJ2 .mbr-text,
-.cid-v9gsrxDuJ2 .item .mbr-section-btn {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-v9gsrxDuJ2 .content-head {
-  max-width: 800px;
-}
-.cid-v9gsrxDuJ2 .mbr-section-subtitle,
-.cid-v9gsrxDuJ2 .mbr-section-head .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-v9za4AKY8R {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/groove2vibe20music20banner-1536x1024.png");
-}
-.cid-v9za4AKY8R .mbr-section-title {
-  color: #f7f7f7;
-  text-align: center;
-}
-.cid-v9za4AKY8R .mbr-text,
-.cid-v9za4AKY8R .mbr-section-btn {
+.cid-vrS8oeisBr .mbr-text,
+.cid-vrS8oeisBr .mbr-section-btn {
   color: #05386b;
   text-align: center;
 }
-.cid-v9za4AKY8R .mbr-section-subtitle {
+.cid-vrS8oeisBr .mbr-section-subtitle {
   color: #ffa600;
   text-align: center;
 }
 .cid-v9zbKmIQNz {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/darkwoodbg-1219x453.jpg");
 }
 .cid-v9zbKmIQNz .mbr-fallback-image.disabled {
   display: none;
@@ -1535,34 +1443,36 @@ a {
   }
 }
 .cid-v9zbKmIQNz .mbr-section-title {
-  color: #f68d10;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-v9zbKmIQNz .mbr-text,
 .cid-v9zbKmIQNz .mbr-section-btn {
   color: #f7f7f7;
-}
-.cid-v9zJRJnMKE {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/groove2vibe20music20banner-1536x1024.png");
-}
-.cid-v9zJRJnMKE .mbr-section-title {
-  color: #f7f7f7;
   text-align: center;
 }
-.cid-v9zJRJnMKE .mbr-text,
-.cid-v9zJRJnMKE .mbr-section-btn {
+.cid-vrS8qqg0ix {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-vrS8qqg0ix .mbr-section-title {
+  color: #ffa600;
+  text-align: center;
+}
+.cid-vrS8qqg0ix .mbr-text,
+.cid-vrS8qqg0ix .mbr-section-btn {
   color: #05386b;
   text-align: center;
 }
-.cid-v9zJRJnMKE .mbr-section-subtitle {
+.cid-vrS8qqg0ix .mbr-section-subtitle {
   color: #ffa600;
   text-align: center;
 }
 .cid-v9zKBMfKZu {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/darkwoodbg-1219x453.jpg");
 }
 .cid-v9zKBMfKZu .mbr-overlay {
   background-color: #ffffff;
@@ -1584,30 +1494,30 @@ a {
   max-width: 800px;
 }
 .cid-v9zKBMfKZu .mbr-section-title {
-  color: #f68d10;
+  color: #ffffff;
 }
-.cid-v9zKQELTfA {
+.cid-vrS8rs0bwI {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-image: url("../../../assets/images/groove2vibe20music20banner-1536x1024.png");
+  background-color: #000000;
 }
-.cid-v9zKQELTfA .mbr-section-title {
+.cid-vrS8rs0bwI .mbr-section-title {
   color: #ffa600;
   text-align: center;
 }
-.cid-v9zKQELTfA .mbr-text,
-.cid-v9zKQELTfA .mbr-section-btn {
+.cid-vrS8rs0bwI .mbr-text,
+.cid-vrS8rs0bwI .mbr-section-btn {
   color: #05386b;
   text-align: center;
 }
-.cid-v9zKQELTfA .mbr-section-subtitle {
+.cid-vrS8rs0bwI .mbr-section-subtitle {
   color: #ffa600;
   text-align: center;
 }
 .cid-v8Jk5XjL3u {
   padding-top: 4rem;
   padding-bottom: 2rem;
-  background-color: #000000;
+  background-image: url("../../../assets/images/darkwoodbg-1219x453.jpg");
   overflow: hidden;
 }
 .cid-v8Jk5XjL3u .media-container-row .mbr-text {
@@ -1737,7 +1647,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #f68d10 !important;
+  background: #000000 !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -1749,7 +1659,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #f68d10;
+  background-color: #000000;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -1778,8 +1688,8 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #f68d10;
-  background: #f68d10 !important;
+  background: #000000;
+  background: #000000 !important;
 }
 .cid-v9syzv2hz3 .nav-item:focus,
 .cid-v9syzv2hz3 .nav-link:focus {
@@ -1941,7 +1851,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-v9syzv2hz3 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f68d10;
+  background: #000000;
 }
 .cid-v9syzv2hz3 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2105,10 +2015,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #f68d10;
+    background: #000000;
     opacity: 1;
-    border-color: #f68d10 !important;
-    background: #f68d10 !important;
+    border-color: #000000 !important;
+    background: #000000 !important;
     backdrop-filter: blur(8px);
   }
   .cid-v9syzv2hz3 .navbar-nav .nav-item .nav-link::after {
@@ -2369,7 +2279,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #f68d10 !important;
+  background: #000000 !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2381,7 +2291,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #f68d10;
+  background-color: #000000;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -2410,8 +2320,8 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #f68d10;
-  background: #f68d10 !important;
+  background: #000000;
+  background: #000000 !important;
 }
 .cid-v9szEvIyCX .nav-item:focus,
 .cid-v9szEvIyCX .nav-link:focus {
@@ -2573,7 +2483,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-v9szEvIyCX .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f68d10;
+  background: #000000;
 }
 .cid-v9szEvIyCX .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2737,10 +2647,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #f68d10;
+    background: #000000;
     opacity: 1;
-    border-color: #f68d10 !important;
-    background: #f68d10 !important;
+    border-color: #000000 !important;
+    background: #000000 !important;
     backdrop-filter: blur(8px);
   }
   .cid-v9szEvIyCX .navbar-nav .nav-item .nav-link::after {
@@ -3001,7 +2911,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #f68d10 !important;
+  background: #000000 !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -3013,7 +2923,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #f68d10;
+  background-color: #000000;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -3042,8 +2952,8 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #f68d10;
-  background: #f68d10 !important;
+  background: #000000;
+  background: #000000 !important;
 }
 .cid-v9sAC4sCnd .nav-item:focus,
 .cid-v9sAC4sCnd .nav-link:focus {
@@ -3205,7 +3115,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-v9sAC4sCnd .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f68d10;
+  background: #000000;
 }
 .cid-v9sAC4sCnd .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -3369,10 +3279,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #f68d10;
+    background: #000000;
     opacity: 1;
-    border-color: #f68d10 !important;
-    background: #f68d10 !important;
+    border-color: #000000 !important;
+    background: #000000 !important;
     backdrop-filter: blur(8px);
   }
   .cid-v9sAC4sCnd .navbar-nav .nav-item .nav-link::after {
@@ -3633,7 +3543,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #f68d10 !important;
+  background: #000000 !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -3645,7 +3555,7 @@ a {
   align-items: center;
   border-radius: 100vw;
   margin-top: 1rem;
-  background-color: #f68d10;
+  background-color: #000000;
   box-shadow: 0 30px 60px 0 rgba(27, 31, 10, 0.08);
 }
 @media (max-width: 992px) {
@@ -3674,8 +3584,8 @@ a {
   border-radius: 1.5rem;
   transition: .3s all !important;
   min-width: auto;
-  background: #f68d10;
-  background: #f68d10 !important;
+  background: #000000;
+  background: #000000 !important;
 }
 .cid-v9sBbzmAMk .nav-item:focus,
 .cid-v9sBbzmAMk .nav-link:focus {
@@ -3837,7 +3747,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-v9sBbzmAMk .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #f68d10;
+  background: #000000;
 }
 .cid-v9sBbzmAMk .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -4001,10 +3911,10 @@ a {
     width: 100%;
     padding: 1rem;
     border-radius: 1.5rem;
-    background: #f68d10;
+    background: #000000;
     opacity: 1;
-    border-color: #f68d10 !important;
-    background: #f68d10 !important;
+    border-color: #000000 !important;
+    background: #000000 !important;
     backdrop-filter: blur(8px);
   }
   .cid-v9sBbzmAMk .navbar-nav .nav-item .nav-link::after {
