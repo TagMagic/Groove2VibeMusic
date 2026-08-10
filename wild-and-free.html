@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v6.1.12, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v6.1.12, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-round-128x128.png" type="image/x-icon">
+  <meta name="description" content="Wild & Free combines striking imagery with an original country rock song about living with independence, balance, and grace on your own terms">
+  
+  
+  <title>wild-and-free</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/parallax/jarallax.css">
+  <link rel="stylesheet" href="assets/animatecss/animate.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Merienda:300,400,500,600,700,800,900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merienda:300,400,500,600,700,800,900&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css?v=gImT3U"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css?v=gImT3U" type="text/css">
+
+  
+  <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap" rel="stylesheet">
+
+<meta name="p:domain_verify" content="a5c062cca340a3fcbadc571369f12fe5"/>
+
+  
+</head>
+<body>
+  <script>
+(function () {
+  const PREVIEW_BASE = "/g2v/audio/previews/"; // adjust if needed
+  const player = new Audio();
+  player.preload = "metadata";
+  player.loop = false;
+
+  let currentBtn = null;
+
+  function stop() {
+    player.pause();
+    player.currentTime = 0;
+    currentBtn = null;
+  }
+
+  player.addEventListener("ended", () => { currentBtn = null; });
+  player.addEventListener("error", () => { stop(); });
+
+  function buildSrc(key) {
+    key = (key || "").trim();
+    if (!key) return null;
+
+    // If full path or URL provided, use it as-is
+    if (key.includes("/") || key.startsWith("http")) return key;
+
+    // If extension provided, append to base
+    if (/\.(mp3|wav|m4a)$/i.test(key)) return PREVIEW_BASE + key;
+
+    // Otherwise treat as filename stem
+    return PREVIEW_BASE + key + ".mp3";
+  }
+
+  function bind() {
+    document.querySelectorAll("[data-audio-preview]").forEach((btn) => {
+      if (btn.dataset.bound === "1") return;
+      btn.dataset.bound = "1";
+
+      btn.addEventListener("click", async (e) => {
+        e.preventDefault();
+
+        const src = buildSrc(btn.getAttribute("data-audio-preview"));
+        if (!src) return;
+
+        // Same button toggles stop
+        if (!player.paused && currentBtn === btn) {
+          stop();
+          return;
+        }
+
+        // Stop any currently playing preview
+        if (!player.paused) stop();
+
+        try {
+          player.src = src;
+          currentBtn = btn;
+          await player.play(); // user click -> mobile safe
+        } catch {
+          stop();
+        }
+      });
+    });
+  }
+
+  bind();
+  new MutationObserver(bind).observe(document.body, { childList: true, subtree: true });
+})();
+</script>
+
+  <section data-bs-version="5.1" class="menu menu1 cid-v9sBbzmAMk" once="menu" id="menu01-1b">
+	
+
+	<nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+		<div class="container">
+			<div class="navbar-brand">
+				<span class="navbar-logo">
+					<a href="https://mobiri.se">
+						<img src="assets/images/logo-round-96x96.png" alt="Mobirise Website Builder" style="height: 5rem;">
+					</a>
+				</span>
+				
+			</div>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<div class="hamburger">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
+						<a class="nav-link link text-white display-7" href="index.html">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link link text-white display-7" href="index.html#article04-2d" aria-expanded="false">About</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link link text-white display-7" href="index.html#form02-2g">Contact</a>
+					</li></ul>
+				
+				<div class="navbar-buttons mbr-section-btn"><a class="btn btn-info display-7" href="https://groove2vibemusic.etsy.com">Shop Now</a></div>
+			</div>
+		</div>
+	</nav>
+</section>
+
+<section data-bs-version="5.1" class="header7 cid-v9sBbzHey4" id="header07-1c">
+  
+
+  
+  
+  
+  <div class="align-center container-fluid">
+    <div class="row justify-content-center">
+      <div class="col-md-12 mb-5 content-head">
+        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5"><strong>Find Your Groove &amp; Soothe Your Soul</strong></h1>
+        
+        
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="mbr-figure col-12 col-md-6"><iframe class="mbr-embedded-video" src="https://player.vimeo.com/video/1196461680?autoplay=1&amp;loop=1" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
+    </div>
+  </div>
+</section>
+
+<section data-bs-version="5.1" class="header1 cid-v9sBbA0h1X mbr-parallax-background" id="header1-1d">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-4">
+                <h1 class="mbr-section-title mbr-fonts-style mb-3 display-5">Wild &amp; Free</h1>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--no-padding" id="custom-html-30" custom-code="true" data-rv-view="102"></section>
+
+<section data-bs-version="5.1" class="footer4 cid-v9sBbACmzh" once="footers" id="footer04-1g">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    © Copyright 2026 Groove2Vibe Music - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/parallax/jarallax.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/ytplayer/index.js"></script>
+  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  <script>
+document.addEventListener("click", function (e) {
+  const video = e.target.closest(".g2v-video");
+  if (!video) return;
+
+  if (video.paused) {
+    video.muted = false;     // make sure sound is enabled
+    video.volume = 1.0;
+    video.play();
+  } else {
+    video.pause();
+    video.currentTime = 0;
+  }
+});
+</script>
+
+  
+  <input name="animation" type="hidden">
+  </body>
+</html>
